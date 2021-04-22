@@ -1,0 +1,4 @@
+1- Crear un repositorio en github
+2-Documentar el proceso (el cual va estar mal documentado)
+3-Modificar y ver el git status
+4- agregamos al repositorio local
